@@ -1,0 +1,220 @@
+Price,Levy,Manufacturer,Model,Prod. year,Category,Leather interior,Fuel type,Engine volume,Mileage,Cylinders,Gear box type,Drive wheels,Doors,Wheel,Color,Airbags
+13328,1399,LEXUS,RX 450,2010,Jeep,Yes,Hybrid,3.5,186005 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+16621,1018,CHEVROLET,Equinox,2011,Jeep,No,Petrol,3,192000 km,6,Tiptronic,4x4,04NA05NA2025,Left wheel,Black,8
+8467,NA,HONDA,FIT,2006,Hatchback,No,Petrol,1.3,200000 km,4,Variator,Front,04NA05NA2025,RightNAhand drive,Black,2
+3607,862,FORD,Escape,2011,Jeep,Yes,Hybrid,2.5,168966 km,4,Automatic,4x4,04NA05NA2025,Left wheel,White,0
+11726,446,HONDA,FIT,2014,Hatchback,Yes,Petrol,1.3,91901 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+39493,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,160931 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+1803,761,TOYOTA,Prius,2010,Hatchback,Yes,Hybrid,1.8,258909 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,12
+549,751,HYUNDAI,Sonata,2013,Sedan,Yes,Petrol,2.4,216118 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,12
+1098,394,TOYOTA,Camry,2014,Sedan,Yes,Hybrid,2.5,398069 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,12
+26657,NA,LEXUS,RX 350,2007,Jeep,Yes,Petrol,3.5,128500 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+941,1053,MERCEDESNABENZ,E 350,2014,Sedan,Yes,Diesel,3.5,184467 km,6,Automatic,Rear,04NA05NA2025,Left wheel,White,12
+8781,NA,FORD,Transit,1999,Microbus,No,CNG,4,0 km,8,Manual,Rear,02NA03NA2025,Left wheel,Blue,0
+3000,NA,OPEL,Vectra,1997,Goods wagon,No,CNG,1.6,350000 km,4,Manual,Front,04NA05NA2025,Left wheel,White,4
+1019,1055,LEXUS,RX 450,2013,Jeep,Yes,Hybrid,3.5,138038 km,6,Automatic,Front,04NA05NA2025,Left wheel,White,12
+59464,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,76000 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+549,1079,TOYOTA,CHR,2018,Jeep,Yes,Petrol,2,74146 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,12
+7683,810,HYUNDAI,Elantra,2016,Sedan,Yes,Petrol,1.8,121840 km,4,Automatic,Front,04NA05NA2025,Left wheel,Blue,12
+28382,810,HYUNDAI,Elantra,2016,Sedan,Yes,Petrol,1.8,54317 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+549,2386,HYUNDAI,Sonata,2006,Sedan,Yes,Petrol,3.3,295059 km,6,Automatic,Rear,04NA05NA2025,Left wheel,Blue,12
+941,1850,LEXUS,RX 400,2008,Jeep,Yes,Hybrid,3.5,364523 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Black,12
+18826,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,112645 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+20698,586,TOYOTA,Prius,2012,Sedan,Yes,PlugNAin Hybrid,1.8,187000 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,12
+17562,1249,TOYOTA,Camry,2017,Sedan,Yes,Petrol,2.5,39709 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,12
+7840,NA,FORD,Transit,2001,Microbus,No,Diesel,2.0 Turbo,230000 km,4,Manual,Front,02NA03NA2025,Left wheel,White,0
+4704,NA,OPEL,Vectra,1995,Sedan,No,Petrol,1.8,0 km,4,Automatic,Front,04NA05NA2025,Left wheel,Green,4
+20385,NA,MERCEDESNABENZ,E 220,2006,Sedan,Yes,Diesel,2.2 Turbo,210000 km,4,Tiptronic,Rear,04NA05NA2025,Left wheel,Black,8
+549,2455,LEXUS,GX 470,2008,Jeep,Yes,Petrol,4.7,0 km,8,Automatic,4x4,04NA05NA2025,Left wheel,White,0
+30,NA,TOYOTA,Prius,2008,Sedan,No,Hybrid,1.5,169000 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,8
+14454,583,HYUNDAI,Elantra,2011,Sedan,Yes,Petrol,1.6,158787 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+12074,1537,TOYOTA,Highlander,2009,Jeep,Yes,Hybrid,3.3,420550 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Blue,12
+15681,1288,MERCEDESNABENZ,Vito,2007,Goods wagon,No,Diesel,2.0 Turbo,180000 km,6,Manual,Rear,04NA05NA2025,Left wheel,White,4
+19444,915,PORSCHE,Cayenne,2014,Jeep,Yes,Diesel,3,175056 km,6,Automatic,4x4,04NA05NA2025,Left wheel,White,12
+6899,NA,BMW,X5,2000,Jeep,Yes,CNG,4.4,200000 km,8,Automatic,4x4,04NA05NA2025,Left wheel,Silver,6
+125,1750,TOYOTA,Highlander,2008,Sedan,Yes,Hybrid,3.3,287274 km,6,Automatic,4x4,04NA05NA2025,Left wheel,White,12
+24462,NA,JEEP,Grand Cherokee,2007,Jeep,Yes,Diesel,3.0 Turbo,250000 km,6,Tiptronic,4x4,04NA05NA2025,Left wheel,Black,10
+23235,707,HYUNDAI,Santa FE,2011,Jeep,Yes,Diesel,2,162000 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,4
+51746,1077,TOYOTA,CHR Limited,2019,Jeep,No,Petrol,2,10200 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Red,12
+7527,1486,HONDA,FIT,2010,Hatchback,No,Hybrid,1.3,158000 km,4,Automatic,Front,04NA05NA2025,RightNAhand drive,Black,4
+19121,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,103490 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+314,1399,LEXUS,RX 450,2010,Jeep,Yes,Hybrid,3.5,382746 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+24462,751,TOYOTA,Camry,2013,Sedan,Yes,Petrol,2.4,203200 km,4,Automatic,Front,04NA05NA2025,Left wheel,Blue,4
+45734,1091,HYUNDAI,H1,2016,Universal,Yes,Diesel,2.5,61057 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+20165,650,VOLKSWAGEN,Jetta,2016,Sedan,Yes,Petrol,1.4 Turbo,11200 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Black,8
+21326,382,HYUNDAI,Sonata,2014,Sedan,Yes,Hybrid,2.4,141000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,White,12
+549,1436,PORSCHE,Cayenne,2010,Jeep,Yes,Petrol,3.6,160259 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+220,1194,TOYOTA,Tacoma,2013,Jeep,Yes,Petrol,4,239342 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+15681,503,TOYOTA,Prius C,2012,Hatchback,No,Hybrid,1.5,128000 km,4,Variator,Front,04NA05NA2025,Left wheel,Sky blue,8
+55390,1017,HYUNDAI,Santa FE,2017,Jeep,Yes,Diesel,2,100734 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+12544,NA,TOYOTA,Aqua,2012,Hatchback,No,Hybrid,1.5,141500 km,4,Automatic,Front,04NA05NA2025,RightNAhand drive,Black,8
+17249,NA,FORD,Escape Hybrid,2008,Jeep,No,Hybrid,2.3,147000 km,4,Variator,4x4,04NA05NA2025,Left wheel,White,8
+34889,891,HONDA,Civic,2016,Sedan,Yes,Petrol,2,87768 km,4,Automatic,Front,04NA05NA2025,Left wheel,Blue,4
+862,1104,AUDI,Q7,2015,Jeep,Yes,Petrol,3,264014 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Black,0
+14583,NA,RENAULT,Megane 1.5CDI,2008,Sedan,No,Diesel,1.5 Turbo,132542 km,4,Manual,Front,04NA05NA2025,Left wheel,White,10
+392,1017,MERCEDESNABENZ,E 300,2017,Sedan,Yes,Petrol,2,1600 km,4,Automatic,Rear,04NA05NA2025,Left wheel,Black,12
+38500,639,AUDI,Q5,2014,Jeep,Yes,Petrol,2,87000 km,1,Tiptronic,4x4,04NA05NA2025,Left wheel,White,12
+8781,NA,MERCEDESNABENZ,C 180,2001,Coupe,No,Petrol,2,260000 km,4,Manual,Rear,02NA03NA2025,Left wheel,Blue,0
+87112,NA,MERCEDESNABENZ,GLA 250,2019,Jeep,Yes,Petrol,2.0 Turbo,5323 km,4,Tiptronic,4x4,04NA05NA2025,Left wheel,Grey,0
+1411,629,NISSAN,Juke,2015,Jeep,Yes,Petrol,1.6,87112 km,4,Automatic,4x4,04NA05NA2025,Left wheel,Black,0
+392,919,BMW,535,2012,Sedan,Yes,Petrol,3,204318 km,6,Automatic,Rear,04NA05NA2025,Left wheel,Black,12
+23521,781,CHEVROLET,Cruze LT,2018,Sedan,No,Petrol,1.4 Turbo,22000 km,4,Automatic,Front,04NA05NA2025,Left wheel,Red,6
+16935,530,FORD,Fusion,2013,Sedan,No,Petrol,1.6 Turbo,83000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Silver,8
+10349,NA,TOYOTA,VOXY,2007,Minivan,Yes,Petrol,2.4,170000 km,4,Automatic,Front,04NA05NA2025,RightNAhand drive,Black,6
+7213,530,NISSAN,Juke,2013,Jeep,Yes,Petrol,1.6,312118 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,0
+5331,NA,MERCEDESNABENZ,A 160,2004,Sedan,No,Petrol,1.6,130000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Black,6
+20526,640,HYUNDAI,Tucson,2013,Jeep,Yes,Diesel,2,200279 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,4
+9722,765,HYUNDAI,Sonata,2015,Sedan,Yes,LPG,2,719847 km,4,Automatic,Front,04NA05NA2025,Left wheel,Orange,4
+34657,777,HYUNDAI,H1,2014,Minivan,Yes,Diesel,2.5,154672 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+36564,1091,HYUNDAI,H1,2016,Minivan,Yes,Diesel,2.5,110969 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+314,779,TOYOTA,Camry,2013,Sedan,Yes,Hybrid,2.5,225510 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,12
+5488,NA,TOYOTA,Vitz,2001,Hatchback,No,Petrol,1.5,210000 km,4,Manual,Front,04NA05NA2025,RightNAhand drive,Sky blue,3
+30063,934,HYUNDAI,H1,2015,Universal,Yes,Diesel,2.5,148105 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+15800,769,CHEVROLET,Captiva,2011,Jeep,Yes,Diesel,2.2,255456 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+43952,1249,HYUNDAI,H1,2017,Universal,Yes,Diesel,2.5,111643 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,4
+53154,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,84506 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+14740,645,TOYOTA,Prius,2011,Hatchback,No,Hybrid,1.8,288000 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,8
+42337,NA,FORD,Mustang,2016,Cabriolet,Yes,Petrol,2.3 Turbo,75000 km,4,Tiptronic,Rear,02NA03NA2025,Left wheel,Silver,6
+3763,1053,MERCEDESNABENZ,ML 350,2014,Jeep,Yes,Petrol,3.5,94362 km,6,Automatic,Rear,04NA05NA2025,Left wheel,White,12
+18189,NA,TOYOTA,Prius,2012,Sedan,No,Petrol,1.8,175000 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,8
+862,2455,LEXUS,GX 470,2008,Jeep,Yes,Petrol,4.7,263190 km,8,Automatic,4x4,04NA05NA2025,Left wheel,White,0
+220,1185,FORD,Escape,2009,Jeep,Yes,Hybrid,2.5,193614 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,0
+5645,1324,TOYOTA,Highlander,2010,Jeep,Yes,Hybrid,3.3,264877 km,6,Automatic,4x4,04NA05NA2025,Left wheel,White,12
+7527,830,TOYOTA,Yaris,2019,Sedan,Yes,Petrol,1.5,27656 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,12
+21953,1187,HONDA,Civic,2014,Sedan,No,Hybrid,1.4,16000 km,8,Automatic,4x4,04NA05NA2025,RightNAhand drive,White,10
+8154,NA,HONDA,CrNAv,1998,Jeep,No,Petrol,2,0 km,4,Automatic,4x4,04NA05NA2025,RightNAhand drive,White,2
+21953,781,TOYOTA,Camry,2012,Sedan,No,Petrol,2.5,195053 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,0
+19121,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,121362 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+36065,639,HYUNDAI,Santa FE,2014,Jeep,Yes,Diesel,2,69191 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+8781,1111,HONDA,FIT,2012,Hatchback,Yes,Hybrid,1.3,83000 km,4,Tiptronic,Front,04NA05NA2025,RightNAhand drive,Green,12
+6247,760,CHEVROLET,Cruze,2010,Sedan,Yes,Petrol,1.8,40772 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+16289,642,CHEVROLET,Orlando,2012,Jeep,Yes,Diesel,2,172000 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,4
+77775,1604,MERCEDESNABENZ,GL 63 AMG,2014,Jeep,Yes,Petrol,5.5,433811 km,8,Automatic,4x4,04NA05NA2025,Left wheel,Black,10
+2822,NA,BMW,520 Vanos,1995,Sedan,Yes,Petrol,2,350000 km,6,Manual,Rear,04NA05NA2025,Left wheel,Blue,2
+549,781,SUBARU,Forester,2012,Jeep,Yes,Petrol,2.5,148213 km,4,Automatic,4x4,04NA05NA2025,Left wheel,Blue,0
+6981,1095,DAEWOO,Lacetti,2008,Sedan,Yes,Petrol,2,103246 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+27284,891,HYUNDAI,Elantra,2016,Sedan,No,Petrol,2,105394 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Black,12
+32929,NA,BMW,428 Sport Line,2013,Coupe,Yes,Petrol,2.0 Turbo,160000 km,4,Automatic,Rear,02NA03NA2025,Left wheel,Black,12
+18817,NA,NISSAN,Patrol,1990,Jeep,No,Diesel,2.8 Turbo,333333 km,4,Manual,Rear,04NA05NA2025,Left wheel,Black,0
+4234,NA,HONDA,Civic,1997,Hatchback,Yes,Petrol,1.4,0 km,4,Manual,Front,02NA03NA2025,Left wheel,Blue,6
+15053,NA,MERCEDESNABENZ,E 320,2004,Sedan,Yes,Petrol,3.2,214000 km,6,Tiptronic,Rear,04NA05NA2025,Left wheel,Grey,8
+15458,966,HYUNDAI,Genesis,2009,Coupe,Yes,Petrol,2,123346 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+2901,473,CHEVROLET,Cruze,2014,Sedan,Yes,Petrol,1.4,80827 km,4,Automatic,Front,04NA05NA2025,Left wheel,Green,12
+706,1138,PORSCHE,911,2013,Coupe,Yes,Petrol,3.8,64464 km,6,Automatic,Rear,02NA03NA2025,Left wheel,Black,12
+314,382,FORD,Fusion,2015,Sedan,Yes,Hybrid,2,91760 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,12
+15681,1811,LEXUS,GX 460,2010,Jeep,Yes,Petrol,4.6,275240 km,8,Automatic,4x4,04NA05NA2025,Left wheel,Silver,0
+26657,NA,MERCEDESNABENZ,Sprinter,2004,Microbus,No,Diesel,2.2 Turbo,300000 km,4,Manual,Rear,04NA05NA2025,Left wheel,White,1
+10663,988,TOYOTA,Prius,2007,Hatchback,No,Petrol,1.5,318400 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,6
+12858,765,FORD,Focus SE,2015,Sedan,No,Petrol,2,91200 km,4,Automatic,Front,04NA05NA2025,Left wheel,Sky blue,10
+1019,917,BMW,X5,2013,Jeep,Yes,Diesel,3,137802 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Black,12
+549,917,BMW,535,2013,Sedan,Yes,Hybrid,3,151586 km,6,Automatic,Rear,04NA05NA2025,Left wheel,White,12
+12858,NA,KIA,Picanto,2016,Hatchback,No,Petrol,1.2,107000 km,4,Manual,Front,04NA05NA2025,Left wheel,Silver,2
+15000,NA,BMW,328,2008,Sedan,Yes,CNG,3,210408 km,6,Tiptronic,Rear,04NA05NA2025,Left wheel,White,12
+85553,1156,FORD,Explorer,2017,Jeep,Yes,Petrol,2.3,100567 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+44752,1091,HYUNDAI,H1,2016,Universal,Yes,Diesel,2.5,86000 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,4
+17158,687,HYUNDAI,Elantra,2010,Sedan,Yes,Petrol,1.6,122740 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+12231,NA,MITSUBISHI,Airtrek,2005,Jeep,No,LPG,2.4,144000 km,4,Tiptronic,4x4,04NA05NA2025,RightNAhand drive,White,16
+11917,11714,MERCEDESNABENZ,E 500 AMG,2003,Sedan,Yes,Petrol,5,150000 km,12,Tiptronic,Rear,04NA05NA2025,RightNAhand drive,White,12
+1254,NA,MITSUBISHI,Lancer,1997,Sedan,No,Petrol,1.3,100000 km,4,Manual,Rear,04NA05NA2025,Left wheel,Red,0
+94,NA,HONDA,FIT,2003,Hatchback,No,Petrol,1.5,178000 km,4,Variator,Front,04NA05NA2025,RightNAhand drive,Silver,4
+25591,640,SSANGYONG,Korando,2013,Jeep,Yes,Diesel,2,85704 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+14897,836,HYUNDAI,Santa FE,2010,Jeep,Yes,Diesel,2,58962 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+23521,779,TOYOTA,Camry,2013,Sedan,Yes,Hybrid,2.5,90000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,White,12
+3450,NA,RENAULT,Clio,1995,Hatchback,No,Petrol,1.2,50000 km,3,Manual,Front,02NA03NA2025,Left wheel,Green,0
+706,777,MAZDA,616,2014,Sedan,Yes,Petrol,2.5,0 km,4,Automatic,Front,04NA05NA2025,Left wheel,Red,12
+1019,1537,TOYOTA,Highlander,2009,Sedan,Yes,Hybrid,3.3,318358 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Black,12
+16935,765,FORD,Fusion,2015,Sedan,Yes,Petrol,2,71454 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,0
+19444,781,TOYOTA,Camry,2012,Sedan,Yes,Petrol,2.5,0 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Black,6
+11604,639,HYUNDAI,Sonata,2014,Sedan,Yes,LPG,2,346470 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+51965,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,59515 km,4,Automatic,Front,04NA05NA2025,Left wheel,Blue,4
+706,394,TOYOTA,Camry,2014,Sedan,Yes,Hybrid,2.5,115312 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,12
+9408,NA,MERCEDESNABENZ,C 220,1999,Sedan,No,Diesel,2.2 Turbo,111111 km,4,Manual,Rear,04NA05NA2025,Left wheel,Silver,4
+13328,1347,HYUNDAI,H1,2008,Minivan,Yes,Diesel,2.5,74444 km,4,Automatic,Front,04NA05NA2025,Left wheel,Yellow,4
+17876,NA,NISSAN,Serena,2012,Minivan,No,Petrol,2,143000 km,4,Tiptronic,Front,04NA05NA2025,RightNAhand drive,White,12
+549,2866,NISSAN,Maxima,2004,Sedan,Yes,Petrol,3.5,299709 km,6,Automatic,Front,04NA05NA2025,Left wheel,Grey,12
+20071,NA,TOYOTA,RAV 4,2008,Jeep,No,Petrol,2.4,135000 km,4,Automatic,4x4,04NA05NA2025,Left wheel,Silver,8
+22894,862,HYUNDAI,H1,2011,Minivan,Yes,Diesel,2.5,124444 km,4,Automatic,Front,04NA05NA2025,Left wheel,Yellow,4
+2901,503,HONDA,Civic,2012,Sedan,Yes,Hybrid,1.5,146403 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,0
+15681,NA,MITSUBISHI,Pajero,1997,Jeep,No,Petrol,2.4,142000 km,4,Automatic,4x4,02NA03NA2025,Left wheel,Blue,6
+39829,1811,LEXUS,GX 460,2010,Jeep,Yes,Petrol,4.6,155821 km,8,Automatic,4x4,04NA05NA2025,Left wheel,Black,0
+706,1646,LEXUS,GX 460,2015,Jeep,Yes,Petrol,4.6,102907 km,8,Automatic,4x4,04NA05NA2025,Left wheel,Black,0
+18660,NA,HYUNDAI,Sonata,2013,Sedan,Yes,Petrol,2.4,130000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Black,6
+22580,1017,MERCEDESNABENZ,E 300,2017,Sedan,Yes,Petrol,2,50930 km,4,Automatic,Rear,04NA05NA2025,Left wheel,Black,12
+11604,639,HYUNDAI,Sonata,2014,Sedan,Yes,LPG,2,264872 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+314,259,CHEVROLET,Volt,2014,Hatchback,Yes,Hybrid,1.4,131893 km,4,Automatic,Front,04NA05NA2025,Left wheel,Brown,0
+5488,751,GMC,TERRAIN,2013,Jeep,Yes,Petrol,2.4,138958 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,12
+4300,NA,MERCEDESNABENZ,208,1985,Universal,No,Diesel,2.5,1111111 km,4,Manual,Rear,04NA05NA2025,Left wheel,Black,1
+18817,609,TOYOTA,Camry,2018,Sedan,Yes,Hybrid,2.5,35058 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,12
+21169,697,HONDA,HrNAv EX,2015,Jeep,No,Petrol,1.8,33330 km,4,Automatic,4x4,04NA05NA2025,Left wheel,Grey,8
+9095,NA,FIAT,500,2011,Coupe,No,Petrol,1.2,141000 km,4,Automatic,Front,02NA03NA2025,RightNAhand drive,Red,4
+1568,639,VOLKSWAGEN,Jetta,2014,Sedan,Yes,Diesel,2,82392 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,12
+3136,NA,SUBARU,Legacy,2005,Goods wagon,No,Petrol,2.0 Turbo,180000 km,6,Tiptronic,4x4,04NA05NA2025,RightNAhand drive,Blue,6
+17876,585,HYUNDAI,Elantra sport limited,2013,Sedan,Yes,Petrol,1.8,117920 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Grey,12
+11290,891,HYUNDAI,Sonata,2016,Sedan,Yes,LPG,2,279787 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+36065,1399,TOYOTA,Sienna,2010,Minivan,Yes,Petrol,3.5,227200 km,6,Tiptronic,Front,04NA05NA2025,Left wheel,White,16
+862,394,TOYOTA,Camry,2014,Sedan,Yes,Hybrid,2.5,130478 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,12
+21395,781,HYUNDAI,H1,2012,Universal,Yes,Diesel,2.5,166144 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+15681,891,HYUNDAI,Sonata,2016,Sedan,Yes,LPG,2,258706 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+627,475,CHEVROLET,Volt,2012,Jeep,Yes,Hybrid,1.4,188419 km,4,Automatic,Front,04NA05NA2025,Left wheel,Red,0
+40070,690,TOYOTA,Aqua,2016,Hatchback,Yes,Petrol,1.5,25807 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+11917,NA,MERCEDESNABENZ,A 170,2008,Hatchback,No,Petrol,1.7,180000 km,4,Automatic,Front,04NA05NA2025,Left wheel,Golden,8
+72130,1079,LEXUS,NX 300,2018,Jeep,Yes,Petrol,2.0 Turbo,18918 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Black,6
+35927,640,SSANGYONG,REXTON,2013,Jeep,Yes,Diesel,2,137267 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+21012,308,TOYOTA,Prius,2014,Sedan,No,Hybrid,1.8,160000 km,4,Automatic,4x4,04NA05NA2025,Left wheel,White,4
+21012,1823,TOYOTA,Tacoma,2018,Sedan,Yes,Petrol,3.5,27358 km,6,Automatic,Front,04NA05NA2025,Left wheel,Grey,12
+13172,1361,KIA,Carnival grand,2009,Minivan,Yes,Diesel,2.9,84176 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,6
+15624,707,HYUNDAI,Genesis,2011,Coupe,Yes,Petrol,2,107005 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,4
+4547,NA,OPEL,Vectra,1997,Sedan,No,Petrol,1.6,15000 km,4,Manual,Front,04NA05NA2025,Left wheel,Beige,2
+5488,1273,INFINITI,QX60,2015,Jeep,Yes,Petrol,3.5,124154 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Black,12
+20005,531,HYUNDAI,Elantra,2012,Sedan,Yes,Petrol,1.6,104997 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+36110,924,VOLKSWAGEN,Passat,2017,Sedan,Yes,Petrol,1.8,27728 km,6,Tiptronic,Front,04NA05NA2025,Left wheel,Silver,8
+7840,NA,MERCEDESNABENZ,E 240 E 240,1998,Sedan,Yes,Petrol,2.4,777777 km,6,Manual,Rear,04NA05NA2025,Left wheel,Blue,4
+470,1077,MAZDA,1000,2019,Jeep,Yes,Petrol,2,11566 km,4,Automatic,4x4,04NA05NA2025,Left wheel,Black,12
+1300,NA,AUDI,50,2018,Coupe,Yes,Petrol,0.5,4000 km,1,Tiptronic,Rear,>5,RightNAhand drive,Blue,0
+43880,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,113700 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,4
+29479,584,MERCEDESNABENZ,C 250,2014,Sedan,Yes,Petrol,1.8 Turbo,69000 km,4,Tiptronic,Rear,04NA05NA2025,Left wheel,Grey,8
+17249,NA,TOYOTA,Camry,2011,Sedan,Yes,Hybrid,2.5,152000 km,4,Variator,Front,04NA05NA2025,Left wheel,White,12
+9408,NA,TOYOTA,Vitz funkargo,2003,Universal,No,Petrol,1.5,181926 km,4,Automatic,4x4,04NA05NA2025,RightNAhand drive,Silver,2
+44213,891,HYUNDAI,Santa FE,2016,Jeep,Yes,Diesel,2,50255 km,4,Automatic,Front,04NA05NA2025,Left wheel,Red,4
+8467,2078,BMW,325,2001,Sedan,Yes,Petrol,2.5,252800 km,6,Manual,Rear,04NA05NA2025,Left wheel,Grey,6
+627,915,AUDI,A6,2014,Sedan,Yes,Petrol,3,164488 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+21950,831,FORD,Transit,2011,Goods wagon,No,Diesel,2.4 Turbo,125000 km,4,Manual,4x4,04NA05NA2025,Left wheel,White,2
+706,475,FIAT,500,2012,Hatchback,Yes,Petrol,1.4,164574 km,4,Automatic,Front,04NA05NA2025,Left wheel,Red,12
+3136,473,CHEVROLET,Cruze,2014,Sedan,Yes,Petrol,1.4,156992 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,12
+3450,NA,OPEL,Vectra,1995,Sedan,No,CNG,2,0 km,4,Manual,Front,04NA05NA2025,Left wheel,White,2
+9408,NA,MITSUBISHI,Pajero,1998,Jeep,No,Petrol,3.5 Turbo,11000 km,6,Tiptronic,4x4,04NA05NA2025,RightNAhand drive,Silver,4
+31500,NA,NISSAN,Pathfinder,2010,Jeep,Yes,LPG,4,90200 km,6,Tiptronic,4x4,04NA05NA2025,Left wheel,Black,12
+20385,NA,MITSUBISHI,Delica,2005,Minivan,Yes,Petrol,3,184000 km,6,Automatic,4x4,04NA05NA2025,RightNAhand drive,White,12
+314,1053,MERCEDESNABENZ,E 350,2014,Sedan,Yes,Diesel,3.5,149486 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+2300,NA,VOLKSWAGEN,Golf,1996,Sedan,No,CNG,2,0 km,4,Manual,Front,04NA05NA2025,Left wheel,Green,0
+7840,NA,MERCEDESNABENZ,Vaneo,2004,Universal,No,LPG,1.9,170000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Silver,4
+56450,NA,TOYOTA,Camry Se,2018,Sedan,Yes,Petrol,2.5,25000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,Blue,12
+1490,639,VOLKSWAGEN,Jetta,2014,Universal,Yes,Diesel,2,113214 km,4,Automatic,Front,04NA05NA2025,Left wheel,Grey,12
+627,836,TOYOTA,Tacoma,2012,Sedan,Yes,Petrol,2.7,394069 km,4,Automatic,Rear,04NA05NA2025,Left wheel,Black,12
+314,1053,MERCEDESNABENZ,E 350,2014,Sedan,Yes,Diesel,3.5,149486 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Silver,12
+13172,NA,HONDA,CrNAv,2002,Jeep,No,Petrol,2.4,260000 km,4,Automatic,4x4,04NA05NA2025,Left wheel,Silver,6
+19757,NA,NISSAN,Patrol Y60,1990,Jeep,No,Diesel,2.8 Turbo,222222 km,4,Manual,Rear,04NA05NA2025,Left wheel,Black,0
+4704,917,AUDI,A7,2013,Hatchback,Yes,Petrol,3,301707 km,6,Automatic,4x4,04NA05NA2025,Left wheel,Grey,0
+706,751,HYUNDAI,Sonata,2013,Sedan,Yes,Petrol,2.4,175827 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,12
+5802,1055,MERCEDESNABENZ,E 350,2013,Sedan,Yes,Diesel,3.5,107800 km,6,Automatic,Rear,04NA05NA2025,Left wheel,Grey,12
+25716,777,TOYOTA,Camry,2014,Sedan,No,Petrol,2.5,115200 km,4,Automatic,Front,04NA05NA2025,Left wheel,Silver,8
+14426,642,CHEVROLET,Orlando,2012,Jeep,Yes,LPG,2,132036 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+10820,NA,TOYOTA,RAV 4,2001,Jeep,No,Petrol,2,91000 km,4,Automatic,4x4,02NA03NA2025,RightNAhand drive,Silver,4
+45436,1172,FORD,Explorer,2011,Jeep,Yes,Petrol,3.5,129177 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+11917,893,HYUNDAI,I30,2008,Hatchback,No,Diesel,1.6,201000 km,4,Manual,Front,04NA05NA2025,Left wheel,Black,8
+41281,765,HYUNDAI,Santa FE,2015,Jeep,Yes,Diesel,2,185811 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,4
+4391,NA,NISSAN,Altima,1998,Sedan,No,Petrol,2.4,358400 km,4,Manual,Front,04NA05NA2025,Left wheel,Brown,2
+3058,1872,PORSCHE,Cayenne,2018,Sedan,Yes,Petrol,3.6,28968 km,6,Automatic,4x4,04NA05NA2025,Left wheel,White,12
+3700,NA,ALFA ROMEO,147,2001,Coupe,Yes,Petrol,1.8,240000 km,4,Manual,Front,02NA03NA2025,Left wheel,Black,4
+15681,NA,SUZUKI,Grand Vitara,2008,Jeep,No,Petrol,1.6,98000 km,4,Automatic,4x4,02NA03NA2025,Left wheel,Black,12
+6586,645,LEXUS,CT 200h,2011,Hatchback,Yes,Hybrid,1.8,122302 km,4,Automatic,Front,04NA05NA2025,Left wheel,Black,0
+12544,NA,TOYOTA,Prius,2007,Hatchback,No,Hybrid,1.5,140000 km,4,Automatic,Front,04NA05NA2025,Left wheel,Beige,6
+30063,639,HYUNDAI,Tucson,2014,Jeep,Yes,Diesel,2,120000 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
+72130,1885,PORSCHE,Panamera,2010,Hatchback,Yes,Petrol,4.8,196800 km,8,Tiptronic,4x4,04NA05NA2025,Left wheel,White,8
+21639,NA,HYUNDAI,Veloster,2015,Hatchback,No,Petrol,1.6,17200 km,4,Tiptronic,Front,02NA03NA2025,Left wheel,Red,10
+36692,NA,TOYOTA,RAV 4 XLE Sport,2013,Jeep,No,Petrol,2.5,120000 km,4,Tiptronic,Front,04NA05NA2025,Left wheel,White,0
+30,NA,HONDA,FIT,2002,Hatchback,No,Petrol,1.5,0 km,4,Automatic,Front,04NA05NA2025,RightNAhand drive,Silver,4
+12231,1266,TOYOTA,Aqua,2014,Hatchback,No,Hybrid,1.5,66000 km,4,Variator,Front,04NA05NA2025,RightNAhand drive,Silver,4
+3136,NA,TOYOTA,Sienta,2004,Sedan,No,Petrol,1.5,300000 km,4,Variator,Front,04NA05NA2025,RightNAhand drive,Beige,4
+10663,NA,TOYOTA,Prius,2009,Sedan,Yes,Hybrid,1.8,230000 km,4,Variator,Front,04NA05NA2025,Left wheel,Grey,6
+5620,447,HONDA,FIT,2013,Hatchback,Yes,Petrol,1.3,110467 km,4,Automatic,Front,04NA05NA2025,Left wheel,White,4
